@@ -1,6 +1,9 @@
 | [Makers Academy](http://www.makersacademy.com) | Week 2 | Friday Challenge |
 | ------ | ------ | ------ |
 
+Atlas
+=====
+
 Part 2 of week 2's challenge involved using branches on git.  
 
 ###Aim
