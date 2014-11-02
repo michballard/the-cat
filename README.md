@@ -1,7 +1,7 @@
-#Atlas
+| [Makers Academy](http://www.makersacademy.com) | Week 2 | Friday Challenge |
+| ------ | ------ | ------ |
 
-##Makers Academy Week 2 Test
-
+Part 2 of week 2's challenge involved using branches on git.  
 
 ###Aim
 
@@ -16,7 +16,3 @@ The aim of the exercise is to create a folder with a country that's not in repo 
 * Add a file with the name of the capital
 * Push to your fork
 * Send a pull request to the original repo
-
-###Other details
-
-The test was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev) and Enrique Comba [@ecomba](https://github.com/ecomba)
